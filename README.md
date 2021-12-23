@@ -5,7 +5,7 @@ This repository contains the project 2 of **EPFL CS-433 Machine Learning**.
 
 **Team members**: Giacomo Orsi, Vittorio Rossi, Chun-Tso Tsai
 
-**Lab**: (Entrepreneurship and Technology Commercialization Chair)[https://www.epfl.ch/labs/entc/], EPFL
+**Lab**: [Entrepreneurship and Technology Commercialization Chair](https://www.epfl.ch/labs/entc/), EPFL
 
 ## Abstract 
 Despite providing a publicly accessible definition of novelty, the United State's Patents and Trademarks Office (USPTO) receives tens of thousands of non-compliant utility applications every year. This paper provides information regarding the non-linear correlations between a patent's data and its novelty. Depending on the use case, both shallow and deep neural networks were employed to extrapolate these meaningful remarks.
