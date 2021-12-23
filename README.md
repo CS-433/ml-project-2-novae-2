@@ -5,8 +5,6 @@ This repository contains the project 2 of **EPFL CS-433 Machine Learning**.
 
 **Team members**: Giacomo Orsi, Vittorio Rossi, Chun-Tso Tsai
 
-**Advisor**: Dr. Davide Bavato
-
 **Lab**: [Entrepreneurship and Technology Commercialization Chair](https://www.epfl.ch/labs/entc/), EPFL
 
 ## Abstract 
