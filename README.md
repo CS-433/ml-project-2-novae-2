@@ -5,6 +5,8 @@ This repository contains the project 2 of **EPFL CS-433 Machine Learning**.
 
 **Team members**: Giacomo Orsi, Vittorio Rossi, Chun-Tso Tsai
 
+**Advisor**: Dr. Davide Bavato
+
 **Lab**: [Entrepreneurship and Technology Commercialization Chair](https://www.epfl.ch/labs/entc/), EPFL
 
 ## Abstract 
@@ -20,6 +22,8 @@ This notebook contains the query executed on Google Cloud BigQuery in order to b
 ### `claim2vec.ipynb`
 This notebook contains the process of converting patent claims into vector representations using `word2vec`.
 
+### `NN_classifier.ipynb`
+This notebook contains the neural network design, training, and evaluation.
 
 ## Datasets
 The datasets that we generated are accessible in [this](https://drive.google.com/drive/folders/1LyoBf9eJzJajI4hSO2bt91eAD1bEZUMa?usp=sharing) Google Drive folder (EPFL authentication required).
