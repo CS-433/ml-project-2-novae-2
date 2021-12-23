@@ -4,4 +4,4 @@
 __pycache__
 *.csv
 .idea 
-*.model
+*.model 
