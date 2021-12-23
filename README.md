@@ -1,4 +1,4 @@
-# ML4Science - Novae
+# Detecting novelty in USPTO patent applications with neural networks
 This repository contains the project 2 of **EPFL CS-433 Machine Learning**. 
 
 **Team name**: Novae
@@ -8,7 +8,8 @@ This repository contains the project 2 of **EPFL CS-433 Machine Learning**.
 **Lab**: [Entrepreneurship and Technology Commercialization Chair](https://www.epfl.ch/labs/entc/), EPFL
 
 ## Abstract 
-Despite providing a publicly accessible definition of novelty, the United State's Patents and Trademarks Office (USPTO) receives tens of thousands of non-compliant utility applications every year. This paper provides information regarding the non-linear correlations between a patent application's data and its novelty. Depending on the use case, both shallow and deep neural networks were employed to extrapolate these meaningful remarks.
+Despite providing a publicly accessible definition of novelty, the United State's Patents and Trademarks Office (USPTO) receives tens of thousands of non-compliant utility applications every year. This paper provides information regarding the non-linear correlations between a patent application's data and its novelty, and describes a model which predicts whether a patent will be approved. 
+
 
 The paper which describes this project can be found [here](paper.pdf)
 
